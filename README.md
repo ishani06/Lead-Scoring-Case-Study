@@ -25,12 +25,12 @@ Final Presentation and Recommendations
  - Prepared a final presentation summarizing the analysis and providing recommendations.
 
 # Files Provided
-Lead Score Case Study.ipynb: Python file with code and data analysis.
-Assignment Subjective Questions.pdf: Answers to subjective questions.
-Lead Scoring Case Study.pdf: Final presentation.
-Leads.csv: Data used for analysis.
-Leads Data Dictionary.xlsx: Data dictionary.
-Summary.pdf: Summary of the analysis conducted in the Python file.
+- Lead Score Case Study.ipynb: Python file with code and data analysis.
+- Assignment Subjective Questions.pdf: Answers to subjective questions.
+- Lead Scoring Case Study.pdf: Final presentation.
+- Leads.csv: Data used for analysis.
+- Leads Data Dictionary.xlsx: Data dictionary.
+- Summary.pdf: Summary of the analysis conducted in the Python file.
 
 # How to Use
 - Clone the repository.
